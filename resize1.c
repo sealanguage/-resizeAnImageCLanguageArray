@@ -80,7 +80,7 @@ int main(int argc, char *argv[])
     int newRow[factor];
     printf("newRow size: %i\n", bi.biWidth * n);
 
-    double balance[5] = {1000.0, 2.0, 3.4, 7.0, 50.0};
+    // double balance[5] = {1000.0, 2.0, 3.4, 7.0, 50.0};
 
     for (int z = 0; z < bi.biWidth; z++)
         {
